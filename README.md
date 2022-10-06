@@ -7,3 +7,5 @@ Esté repositorio es para llevar un seguimiento con los problemas de LeetCode
         Resuelto
     2236
         Resuelto
+    1480
+        Resuelto
