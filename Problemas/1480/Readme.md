@@ -12,7 +12,7 @@ public class Solution {
 
 Para llegar a dicha solución es necesario
 - Crear un bucle
-    - Iniciaremos la variable en 1(ya que el indice 0 del array se quedará igual en el resultado)
+    - Iniciaremos la variable en 1 (ya que el indice 0 del array se quedará igual en el resultado)
     - Condición: La variable es menor al tamaño del Array
     - La variable incrementa
 
