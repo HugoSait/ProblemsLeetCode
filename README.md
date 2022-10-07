@@ -24,5 +24,6 @@ Aquí se muestra el orden en el cual
         Documentado
     1342
         Resuelto
+        Documentado
         
 
