@@ -33,7 +33,7 @@ public class Solution {
     - Si la condición no se cumple
         - Se retorna falso
 
-# Nota: El problema a te define como se manejara los nodos del arbol binario, por ello las variables predefinidas
+# Nota: El problema ya te define como se manejara los nodos del arbol binario, por ello las variables predefinidas
 
 ```C#
 /**
