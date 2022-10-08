@@ -7,8 +7,9 @@ Aquí se muestra el orden en el cual
 - Si ya están resueltos
 - Si el problema tiene la documentación de como fue realizado
 # Problemas
-- 2235. Add Two Integers
-    - Resuelto
+
+2235. Add Two Integers
+    * Resuelto
     - Documentado
 
 2236. Root Equals Sum of Children
