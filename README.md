@@ -7,25 +7,31 @@ Aquí se muestra el orden en el cual
 - Si ya están resueltos
 - Si el problema tiene la documentación de como fue realizado
 # Problemas
-    2235
-        Resuelto
-        Documentado
-    2236
-        Resuelto
-        
-    1480
-        Resuelto
-        Documentado
-    1672
-        Resuelto
-        Documentado
-    412. Fizz Buzz
-        Resuelto
-        Documentado
-    1342
-        Resuelto
-        Documentado
-    876. Middle of the Linked List
-        Resuelto
-        Documentado
+2235. Add Two Integers
+    Resuelto
+    Documentado
+
+2236. Root Equals Sum of Children
+    Resuelto
+    Documentado
+
+1480. Running Sum of 1d Array
+    Resuelto
+    Documentado
+
+1632. Richest Customer Wealth
+    Resuelto
+    Documentado
+
+412. Fizz Buzz
+    Resuelto
+    Documentado
+
+1342. Number of Steps to Reduce a Number to Zero
+    Resuelto
+    Documentado
+
+876. Middle of the Linked List
+    Resuelto
+    Documentado
 
