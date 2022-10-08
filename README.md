@@ -19,11 +19,13 @@ Aquí se muestra el orden en el cual
     1672
         Resuelto
         Documentado
-    412
+    412. Fizz Buzz
         Resuelto
         Documentado
     1342
         Resuelto
         Documentado
-        
+    876. Middle of the Linked List
+        Resuelto
+        Documentado
 
