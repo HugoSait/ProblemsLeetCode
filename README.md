@@ -37,6 +37,6 @@ Aquí se muestra el orden en el cual
     - Documentado
 
 - 383 Ransom Note
-    - Incompleto
+    - Resuelto
     - En proceso
 
