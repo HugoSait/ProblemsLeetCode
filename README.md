@@ -47,3 +47,7 @@ Aquí se muestra el orden en el cual
 - 334
     - La solución excede tiempos de optimización
     - No Documentado
+
+- 9
+    - En proceso
+    - Solucionado
