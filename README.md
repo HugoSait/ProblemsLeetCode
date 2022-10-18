@@ -51,3 +51,7 @@ Aquí se muestra el orden en el cual
 - 9 Palindrome Number
     - En proceso
     - Solucionado
+
+- 2 Add Two Numbers
+    - Documentado
+    - Solucionado
