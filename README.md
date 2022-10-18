@@ -12,11 +12,11 @@ Aquí se muestra el orden en el cual
     - Resuelto
     - Documentado
 
-- 2236 Root Equals Sum of Children
+- 2236 Root Equals Sum of Children (Nodos)
     - Resuelto
     - Documentado
 
-- 1480 Running Sum of 1d Array
+- 1480 Running Sum of 1d Array (Vectores)
     - Resuelto
     - Documentado
 
@@ -24,7 +24,7 @@ Aquí se muestra el orden en el cual
     - Resuelto
     - Documentado
 
-- 412 Fizz Buzz
+- 412 Fizz Buzz (Condiciones)
     - Resuelto
     - Documentado
 
@@ -32,11 +32,11 @@ Aquí se muestra el orden en el cual
     - Resuelto
     - Documentado
 
-- 876 Middle of the Linked List
+- 876 Middle of the Linked List (Nodos)
     - Resuelto
     - Documentado
 
-- 383 Ransom Note
+- 383 Ransom Note (Recorridos de Strings)
     - Resuelto
     - En proceso
 
@@ -44,10 +44,10 @@ Aquí se muestra el orden en el cual
     - Resuelto
     - En proceso
 
-- 334
+- 334 Increasing Triplet Subsequence
     - La solución excede tiempos de optimización
     - No Documentado
 
-- 9
+- 9 Palindrome Number
     - En proceso
     - Solucionado
