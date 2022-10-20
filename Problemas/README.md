@@ -1,7 +1,7 @@
 # ProblemsLeetCode
 Problemas de LeetCode
 
-Esté repositorio es para llevar un seguimiento con los problemas de LeetCode
+Esta carpeta es para llevar un seguimiento con los problemas de LeetCode
 Aquí se muestra el orden en el cual
 - Se han realizado los problemas
 - Si ya están resueltos
