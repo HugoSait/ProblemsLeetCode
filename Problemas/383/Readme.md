@@ -12,6 +12,34 @@ public class Solution {
 ```
 
 # Solución.
+- Creamos un vector (Revista) tipo char que obtenga el string (magazine) letra por letra
+- Creamos un vector (Letra) tipo char que obtenga el string (ransomNote) letra por letra
+- Creamos un entero (notas) que obtenga el valor 0
+- Creamos un entero (i) que obtenga el valor 0
+
+- Creamos un ciclo
+    Condición
+    - Entero (notas) es menor al tamaño del vector (Letra)
+        Creamos un if
+        Condición
+        - Entero (i) es menor al tamaño del vector (Revista)
+            Creamos if
+            Condición
+            - El valor de 'Letras' en la posición de 'notas' es igual al valor de 'Revista' en la posición de 'i'
+                /* Proceso de documentar
+                - Creamos un entero (index) que obtiene el valor del metodo (IndexOf)*
+                    - Sus parametros son: El vector 'Revista' y el valor del vector en la posición de 'i'
+                - Revista obtiene el valor del metodo (Revista.Where)**
+                    - 
+                
+                */
+                - El entero 'i' obtiene el valor de 0
+                - El entero 'notas' aumenta 1 su valor
+            - Si no
+                - El entero 'i' aumenta 1 su valor
+        - Si no
+            - Retorna Falso
+- Retorna Verdadero
 
 
 ```C#
@@ -40,3 +68,10 @@ public class Solution {
     }
 }
 ```
+
+# Nota
+* El metodo IndexOf puede obtener varios parametros, sin embargo en este ejercició toma dos valores y devuelve la posición donde se encuentra dicho valor
+    - El primer valor es el arreglo en el cual se hará la busqueda
+    - El segundo valor es la cadena u objeto que sera buscado dentro del arreglo
+
+* * F 
