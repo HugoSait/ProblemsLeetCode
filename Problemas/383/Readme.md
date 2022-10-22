@@ -26,13 +26,14 @@ public class Solution {
             Creamos if
             Condición
             - El valor de 'Letras' en la posición de 'notas' es igual al valor de 'Revista' en la posición de 'i'
-                /* Proceso de documentar
                 - Creamos un entero (index) que obtiene el valor del metodo (IndexOf)*
                     - Sus parametros son: El vector 'Revista' y el valor del vector en la posición de 'i'
-                - Revista obtiene el valor del metodo (Revista.Where)**
-                    - 
-                
+
+                /* Proceso de documentar
+                - Revista obtiene el valor del metodo (Revista.Where)* transformado en vector (ToArray())
+                    - la variable 'a' es diferente a 'index'
                 */
+
                 - El entero 'i' obtiene el valor de 0
                 - El entero 'notas' aumenta 1 su valor
             - Si no
@@ -74,4 +75,4 @@ public class Solution {
     - El primer valor es el arreglo en el cual se hará la busqueda
     - El segundo valor es la cadena u objeto que sera buscado dentro del arreglo
 
-* * F 
+* F 
