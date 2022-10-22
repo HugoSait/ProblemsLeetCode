@@ -53,5 +53,13 @@ Aquí se muestra el orden en el cual
     - Solucionado
 
 - 2 Add Two Numbers
+    - Resuelto
     - Documentado
-    - Solucionado
+
+- 20 Valid Parentheses
+    - Resuelto
+    - No Documentado
+
+- 283 Move Zeroes
+    - Resuelto
+    - Documentado
