@@ -52,7 +52,7 @@ public class Solution {
             if (i < Revista.Length){
                 if(Letra[notas] == Revista[i]){
                     int index = Array.IndexOf(Revista, Revista[i]);
-                    Revista = Revista.Where((e, a) => a != index).ToArray();
+                    Revista = Revista.Where((e, a) => a != index).ToArray(); // Rescribe el arreglo Array.
                     i=0;
                     notas++;
                 }else{
@@ -73,3 +73,4 @@ public class Solution {
     - El segundo valor es la cadena u objeto que sera buscado dentro del arreglo
 
 * El metodo Where obtiene como valor una expresión lambda. Las expresiones lambda ayuda a reducir el codigo escrito obteniendo dentro de ellas el valor deseado.
+    - Al utilizar está metodo, nos permite eliminar la letra del Array (Revista). Rescribe el arreglo Array, dejando fuera la posición de 'index' (No agregando dicha letra al nuevo Array Revista)
