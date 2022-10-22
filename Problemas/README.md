@@ -60,6 +60,10 @@ Aquí se muestra el orden en el cual
     - Resuelto
     - No Documentado
 
+- 1832 Check if the Sentence Is Pangram
+    - Resuelto
+    - No Documentado
+
 - 283 Move Zeroes
     - Resuelto
     - Documentado
