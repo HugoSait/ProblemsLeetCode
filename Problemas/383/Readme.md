@@ -28,11 +28,8 @@ public class Solution {
             - El valor de 'Letras' en la posición de 'notas' es igual al valor de 'Revista' en la posición de 'i'
                 - Creamos un entero (index) que obtiene el valor del metodo (IndexOf)*
                     - Sus parametros son: El vector 'Revista' y el valor del vector en la posición de 'i'
-
-                /* Proceso de documentar
                 - Revista obtiene el valor del metodo (Revista.Where)* transformado en vector (ToArray())
-                    - la variable 'a' es diferente a 'index'
-                */
+                    - Se crea una expresión lambda con dos variables (e,a) en la cual el input obtenido es cuando la variable 'a' es diferente a 'index'
 
                 - El entero 'i' obtiene el valor de 0
                 - El entero 'notas' aumenta 1 su valor
@@ -75,4 +72,4 @@ public class Solution {
     - El primer valor es el arreglo en el cual se hará la busqueda
     - El segundo valor es la cadena u objeto que sera buscado dentro del arreglo
 
-* F 
+* El metodo Where obtiene como valor una expresión lambda. Las expresiones lambda ayuda a reducir el codigo escrito obteniendo dentro de ellas el valor deseado.
