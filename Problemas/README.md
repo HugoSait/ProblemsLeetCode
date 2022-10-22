@@ -38,7 +38,7 @@ Aquí se muestra el orden en el cual
 
 - 383 Ransom Note (Recorridos de Strings)
     - Resuelto
-    - En proceso
+    - Documentado
 
 - 1 Two Sum
     - Resuelto
